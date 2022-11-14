@@ -1,0 +1,7 @@
+{
+    "require": {
+        "foxworth42/oauth2-okta": "^1.0",
+        "league/oauth2-github": "^3.0",
+        "league/oauth2-google": "^4.0"
+    }
+}
